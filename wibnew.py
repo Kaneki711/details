@@ -23,120 +23,119 @@ ag = LINETCR.LINE()
 ag.login(token="Ep3VVe1Mz0oVsf2b9PM8.tSL6Ni+BpiVGFpzQ9Gu22a.iX2bLYPIjcAWZhnc1yDJr52i+Dtw+kZ9Z8pdep3Yaqc=")
 ag.loginResult()
 
-print "╔═════════════════════════\n║╔════════════════════════\n║╠❂➣ Login Success WIB\n║╚════════════════════════\n╚═════════════════════════"
+print "SKYLINE TEAM"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
 helpmsg ="""
-   🅲🅾🅼🅼🅰🅽🅳
-
-➧   Help  
-➧   Myhelp
-➧   Me
-➧   Myname: 
-➧   Mybio: 
-➧   Mybio
-➧   Mypict
-➧   Mycover
-➧   Mycopy @
-➧   Mybackup
-➧   Getgrup image
-➧   Speed Response
-➧   Getmid @
-➧   Getprofile @
-➧   Getcontact @
-➧   Getinfo @
-➧   Getname @
-➧   Getbio @
-➧   Getpict @
-➧   Getcover @
-➧   Mention
-➧   Lurk on/off
-➧   Lurkers
-➧   Mimic on/off
-➧   Micadd @
-➧   Micdel @
-➧   Link on/off
-➧   Url/Gurl
-➧   Cancel
-➧   Gcreator
-➧   Hai @
-➧   Kick @
-➧   Ulti @
-➧   Sentil @
-➧   Dj @
-➧   Cancel
-➧   Gname: 
-➧   Gbroadcast: 
-➧   Cbroadcast: 
-➧   Infogrup
-➧   Gruplist
-➧   Link bokep
-➧   Friendlist
-➧   Blocklist
-➧   Ban @
-➧   Unban @
-➧   Clearban
-➧   Banlist
-➧   Contactban
-➧   Midban
-➧   Midban
-➧   Nuke
-➧   Expert crash
-➧   Talkban
-➧   Takol
-➧   Takel
-➧   Talklist
-➧   Sp
-➧   Sp all
-➧   Dsp
-➧   Sp set
-
-    ℬℽ : W⃟   I⃟   B⃟   
+   ✎ SKYLINE TEAM➸
+╔═════════════════════
+╠♨ Help Related ♨ 
+╠═════════════════════
+╠[⇝]Me
+╠[⇝]Myname: 
+╠[⇝]Mybio: 
+╠[⇝]Mybio
+╠[⇝]Mypict
+╠[⇝]Mycover
+╠[⇝]Mycopy @
+╠[⇝]Mybackup
+╠[⇝]Getgrup image
+╠[⇝]Speed Response
+╠[⇝]Getmid @
+╠[⇝]Getprofile @
+╠[⇝]Getcontact @
+╠[⇝]Getinfo @
+╠[⇝]Getname @
+╠[⇝]Getbio @
+╠[⇝]Getpict @
+╠[⇝]Getcover @
+╠[⇝]Mention
+╠[⇝]Lurk on/off
+╠[⇝]Lurkers
+╠[⇝]Mimic on/off
+╠[⇝]Micadd @
+╠[⇝]Micdel @
+╠[⇝]Url/Gurl
+╠[⇝]Cancel
+╠[⇝]Gcreator
+╠[⇝]Kick @
+╠[⇝]Ulti @
+╠[⇝]Gname: 
+╠[⇝]Gbroadcast: 
+╠[⇝]Cbroadcast: 
+╠[⇝]Infogrup
+╠[⇝]Gruplist
+╠[⇝]Link bokep
+╠[⇝]Friendlist
+╠[⇝]Blocklist
+╠[⇝]Ban @
+╠[⇝]Unban @
+╠[⇝]Clearban
+╠[⇝]Banlist
+╠[⇝]Contactban
+╠[⇝]Midban
+╠[⇝]Midban
+╠[⇝]Nuke
+╠[⇝]Expert crash
+╠[⇝]Talkban
+╠[⇝]Takol
+╠[⇝]Takel
+╠[⇝]Talklist
+╠[⇝]Sp
+╠[⇝]Sp all
+╠[⇝]Dsp
+╠[⇝]Sp set
+╠═════════════════════
+♨ SKYLINE TEAM
+╚═════════════════════   
 """
 
 myhelp ="""
-     🆂🅴🆃🆃🅸🅽🅶🆂
-
-➧   Contact on/off
-➧   Autojoin on/off
-➧   Autoleave on/off
-➧   Autoadd on/off
-➧   Sleep on/off
-➧   Read on/off
-➧   Simi on/off
-➧   Sensi on/off
-➧   Autocrash on/off
-➧   Crashpc on/off
-➧   Crashtag on/off
-➧   Crashkick on/off
-➧   Pc on/off
-➧   Dm on/off
-➧   Pergi on/off
-➧   Welcome on/off
-➧   Protect on/off
-➧   High on/off
-➧   Qr on/off
-➧   Invit on/off
-➧   Cancel on/off
-➧   Talkban on/off
-➧   Apakah
-➧   Checkdate
-➧   Cekig
-➧   Kapan
-➧   Lirik
-➧   Music
-➧   Profileig
-➧   Quote
-➧   Time
-➧   Runtime
-➧   say-id
-➧   say-en
-➧   say-jp
-➧   say-ko
-➧   Youtube
-
-   ℬℽ : W⃟   I⃟   B⃟   
+   ✎ SKYLINE TEAM➸
+╔═════════════════════
+♨ Help Creator ♨
+╠═════════════════════
+╠[⇝]Contact on/off
+╠[⇝]Autojoin on/off
+╠[⇝]Autoleave on/off
+╠[⇝]Autoadd on/off
+╠[⇝]Sleep on/off
+╠[⇝]Read on/off
+╠[⇝]Simi on/off
+╠[⇝]Sensi on/off
+╠[⇝]Autocrash on/off
+╠[⇝]Crashpc on/off
+╠[⇝]Crashtag on/off
+╠[⇝]Crashkick on/off
+╠[⇝]Pc on/off
+╠[⇝]Dm on/off
+╠[⇝]Pergi on/off
+╠[⇝]Welcome on/off
+╠[⇝]Protect on/off
+╠[⇝]High on/off
+╠[⇝]Qr on/off
+╠[⇝]Invit on/off
+╠[⇝]Cancel on/off
+╠[⇝]Talkban on/off
+╠[⇝]Apakah
+╠[⇝]Checkdate
+╠[⇝]Cekig
+╠[⇝]Kapan
+╠[⇝]Lirik
+╠[⇝]Music
+╠[⇝]Profileig
+╠[⇝]Quote
+╠[⇝]Time
+╠[⇝]Runtime
+╠[⇝]say-id
+╠[⇝]say-en
+╠[⇝]say-jp
+╠[⇝]say-ko
+╠[⇝]Youtube   
+╠═════════════════════
+╠♨ SKYLINE TEAM ♨
+╚═════════════════════   
 """
 
 mulai = time.time()
@@ -145,10 +144,10 @@ mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 agmid = ag.getProfile().mid
 Bots=[mid,kimid,agmid]
-admin=["u4a361586c55ac4ef218a0a9b78b2f1b3","u4fd239a77c16d1ea7853cd801f6c379d"]
-owner=["u4a361586c55ac4ef218a0a9b78b2f1b3"]
-Creator=["u4a361586c55ac4ef218a0a9b78b2f1b3"]
-staff=["u4a361586c55ac4ef218a0a9b78b2f1b3","u4fd239a77c16d1ea7853cd801f6c379d"]
+admin=["uc77fd25b59f6e563d84f1334f3fed10b"]
+owner=["uc77fd25b59f6e563d84f1334f3fed10b"]
+Creator=["uc77fd25b59f6e563d84f1334f3fed10b"]
+staff=["uc77fd25b59f6e563d84f1334f3fed10b"]
 
 wait = {
     "likeOn":False,
@@ -973,10 +972,10 @@ def bot(op):
 
 #----------------------------------------------------------
             elif msg.text in ["Respon","respon"]:
-                cl.sendText(msg.to,"Hadir booos WIB")
-                ki.sendText(msg.to,"Hadir booos WIB")
-                ag.sendText(msg.to,"Hadir booos WIB")
-                cl.sendText(msg.to,"WIB - BOT")
+                cl.sendText(msg.to,"SKYLINE STAY1")
+                ki.sendText(msg.to,"SKYLINE STAY2")
+                ag.sendText(msg.to,"SKYLINE STAY3")
+                cl.sendText(msg.to,"BOT STAY GROUP")
 #==============================================================================#                                                                                  
             elif 'Xpertcrash' in msg.text:
               if msg.from_ in admin:
@@ -1313,7 +1312,7 @@ def bot(op):
  #==============================================================================#              
             elif cms(msg.text,["Bot creator","Bot Creator"]):
                 msg.contentType = 13
-                msg.contentMetadata = {'mid': "u4a361586c55ac4ef218a0a9b78b2f1b3"}
+                msg.contentMetadata = {'mid': "uc77fd25b59f6e563d84f1334f3fed10b"}
                 cl.sendMessage(msg)
             elif cms(msg.text,["staff","Staff"]):
                 msg.contentType = 13
